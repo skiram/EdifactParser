@@ -1,5 +1,5 @@
 {
-    "name": "chemaclass/edifact-parser",
+    "name": "skiram/edifact-parser",
     "description": "An EDIFACT file parser to extract the values from any defined segment",
     "type": "library",
     "keywords": [
